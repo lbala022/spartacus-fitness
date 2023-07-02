@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/spartacus-fitness/static/css/main.7ec4b227.css",
-    "main.js": "/spartacus-fitness/static/js/main.d5745d4e.js",
+    "main.css": "/spartacus-fitness/static/css/main.60cc8299.css",
+    "main.js": "/spartacus-fitness/static/js/main.a5b6d064.js",
     "index.html": "/spartacus-fitness/index.html",
-    "main.7ec4b227.css.map": "/spartacus-fitness/static/css/main.7ec4b227.css.map",
-    "main.d5745d4e.js.map": "/spartacus-fitness/static/js/main.d5745d4e.js.map"
+    "main.60cc8299.css.map": "/spartacus-fitness/static/css/main.60cc8299.css.map",
+    "main.a5b6d064.js.map": "/spartacus-fitness/static/js/main.a5b6d064.js.map"
   },
   "entrypoints": [
-    "static/css/main.7ec4b227.css",
-    "static/js/main.d5745d4e.js"
+    "static/css/main.60cc8299.css",
+    "static/js/main.a5b6d064.js"
   ]
 }
